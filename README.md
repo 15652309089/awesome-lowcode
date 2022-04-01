@@ -90,6 +90,8 @@
 * [引迈信息](https://www.jnpfsoft.com/)
 * [兰途科技](http://www.app8848.com)
   * [aPass软件工厂](https://www.yuque.com/books/share/9aab5860-6301-4519-a8ae-ac1d3b9dee11)
+* ClickPaaS
+  *  [平台简介](https://www.clickpaas.com/)
   
 ## 页面搭建
 
